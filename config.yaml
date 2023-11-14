@@ -2,7 +2,7 @@ baseURL: "https://artfultom.github.io/"
 languageCode: "ru-RU"
 title: "Некомпилируемое"
 
-theme: "anubis"
+theme: "github.com/Mitrichius/hugo-theme-anubis"
 paginate: 10
 
 enableRobotsTXT: true
