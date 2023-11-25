@@ -1,2 +1,4 @@
-github.com/Mitrichius/hugo-theme-anubis v0.0.0-20230918182456-01c3a53f124c h1:ExzBis1WDt0gqG8jGpMmio6oCmx8r7MTu6dvp9Gc/g0=
-github.com/Mitrichius/hugo-theme-anubis v0.0.0-20230918182456-01c3a53f124c/go.mod h1:FKD3NbdsQzL+cXsC3x99XD/t/Rd5EyhDlNBAxQhULbo=
+github.com/LordMathis/hugo-theme-nightfall v0.6.0 h1:AmJFH2tQ66ZboBJ44RVwtt37Nhi6Qv29k6I/ouPxxRc=
+github.com/LordMathis/hugo-theme-nightfall v0.6.0/go.mod h1:0tCPxAeg5+tWhv17517Q8Lti/TPh0KNyON/uferEU30=
+github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20231122225555-51e697bea7eb h1:fM+3aVQrEXREJs+uHnS+iw35P7JkyLzgz/S5jYJEzEs=
+github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20231122225555-51e697bea7eb/go.mod h1:qzfSzxZEtVIkUEYnXdJV8PmJZMTSSZkfek5uhxFdpHA=
