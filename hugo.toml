@@ -216,24 +216,16 @@ logoHomeLink = "/"
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #
 [[params.social]]
-name = "twitter"
-url  = "https://twitter.com/"
-
-[[params.social]]
 name = "email"
 url  = "mailto:nobody@example.com"
 
 [[params.social]]
 name = "github"
-url  = "https://github.com/"
+url  = "https://github.com/artfultom"
 
 [[params.social]]
 name = "linkedin"
-url  = "https://www.linkedin.com/"
-
-[[params.social]]
-name = "stackoverflow"
-url  = "https://www.stackoverflow.com/"
+url  = "https://www.linkedin.com/in/artfultom"
 
 [languages]
 [languages.en]
@@ -242,7 +234,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 [languages.en.params]
 subtitle  = "Hello Friend NG Theme"
 
-[languages.fr]
+[languages.ru]
 weight    = 2
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 [languages.fr.params]
