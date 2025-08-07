@@ -1,6 +1,6 @@
 baseURL = "https://artfultom.github.io"
-title   = "Некомпилируемое"
-languageCode = "ru-RU"
+title   = "Uncompilable"
+languageCode = "en-EN"
 
 [module]
 [[module.imports]]
